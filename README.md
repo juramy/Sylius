@@ -17,10 +17,6 @@ Sylius is constructed from fully decoupled components (bundles in Symfony2 gloss
 
 We're using full-stack BDD methodology, with [phpspec](http://phpspec.net) and [Behat](http://behat.org).
 
-Windows support is a WIP!
-
-[![Build status on Windows](https://img.shields.io/appveyor/ci/pjedrzejewski/sylius.svg)](https://ci.appveyor.com/project/pjedrzejewski/sylius/branch/master)
-
 Documentation
 -------------
 
