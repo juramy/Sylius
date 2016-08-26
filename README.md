@@ -1,12 +1,13 @@
-![Sylius](https://dl.dropboxusercontent.com/u/46579820/sylius-logo.jpg)
+Fork of v0.19.0 of [Sylius](http://sylius.org).
+
+[![Build status on Linux](https://travis-ci.org/juramy/Sylius.svg?branch=master)](http://travis-ci.org/Sylius/Sylius)
+
+---
+
+![Sylius](http://sylius.org/assets/img/logo.png)
 
 [![Gitter chat](https://badges.gitter.im/Sylius/Sylius.png)](https://gitter.im/Sylius/Sylius)
 [![License](https://img.shields.io/packagist/l/Sylius/Sylius.svg)](https://packagist.org/packages/sylius/sylius)
-[![Version](https://img.shields.io/packagist/v/Sylius/Sylius.svg)](https://packagist.org/packages/sylius/sylius)
-[![Build status on Linux](https://img.shields.io/travis/Sylius/Sylius/master.svg)](http://travis-ci.org/Sylius/Sylius)
-[![Scrutinizer Quality Score](https://img.shields.io/scrutinizer/g/Sylius/Sylius.svg)](https://scrutinizer-ci.com/g/Sylius/Sylius/)
-[![HHVM Status](https://img.shields.io/hhvm/Sylius/Sylius.svg)](http://hhvm.h4cc.de/package/sylius/sylius)
-[![Dependency Status](https://www.versioneye.com/php/sylius:sylius/badge.svg)](https://www.versioneye.com/php/sylius:sylius)
 
 Sylius is an open source e-commerce solution for **PHP**, based on the [**Symfony2**](http://symfony.com) framework.
 
